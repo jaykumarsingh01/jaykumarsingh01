@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Kumar Singh</h1>
-<h3 align="center">A passionate Data Scientist and Machine Learning Enthusiast, currently diving deeper into building intelligent systems.</h3>
+<h3 align="center">A passionate Data Scientist and Machine Learning Enthusiast.</h3>
 
 <img align="right" alt="coding" width="450" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d%...gif">
 
