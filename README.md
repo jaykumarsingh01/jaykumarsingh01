@@ -25,6 +25,21 @@
 </a>
 
 
+
+
+<!-- PROFILE VIEWS COUNTER -->
+<br/>
+
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=jaykumarsingh01)
+
+</div>
+
+
+
+
 </div>
 
 ---
