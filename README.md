@@ -195,13 +195,6 @@ AI/ML Opportunities
 
 <br/><br/>
 
-<!-- CONTRIBUTION ACTIVITY GRAPH -->
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaykumarsingh01&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity"/>
-
-</div>
-
----
 
 <!-- ================= CONNECT ================= -->
 
