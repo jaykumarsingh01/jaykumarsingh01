@@ -30,10 +30,7 @@
 <!-- PROFILE VIEWS COUNTER -->
 <br/>
 
-<!-- PROFILE VIEWS COUNTER -->
-<p align="center">
-  <img src="https://counter.othmaro.dev/api/views?id=jaykumarsingh01" alt="Profile Views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaykumarsingh01&label=Profile%20views&color=0e75b6&style=flat" alt="jaykumarsingh01" /> </p>
 
 
 
