@@ -31,22 +31,12 @@
 <br/>
 
 
-<div align="center">
+<!-- PROFILE VIEWS COUNTER -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=jaykumarsingh01)
 
 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaykumarsingh01&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
-
-</div>
-
-
-
-
-</div>
-
----
 
 <!-- ================= ABOUT ME ================= -->
 
