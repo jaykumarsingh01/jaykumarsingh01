@@ -32,7 +32,6 @@
 
 
 <!-- PROFILE VIEWS COUNTER -->
-
 ![Profile Views](https://komarev.com/ghpvc/?username=jaykumarsingh01)
 
 
