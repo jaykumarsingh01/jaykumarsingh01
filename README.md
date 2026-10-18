@@ -230,7 +230,7 @@ Data Analytics, collaborative projects, and opportunities to learn and grow.
 
 <a href="https://instagram.com/jaykumarsingh_01">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+</a> 
 
 <br/><br/>
 
