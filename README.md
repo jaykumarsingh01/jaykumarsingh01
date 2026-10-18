@@ -32,9 +32,8 @@
 
 <!-- PROFILE VIEWS COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaykumarsingh01" alt="Profile Views" />
+  <img src="https://counter.othmaro.dev/api/views?id=jaykumarsingh01" alt="Profile Views" />
 </p>
-
 
 
 
