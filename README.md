@@ -30,7 +30,7 @@
 <!-- PROFILE VIEWS COUNTER -->
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaykumarsingh01&label=Profile%20views&color=0e75b6&style=flat" alt="jaykumarsingh01" /> </p>
+![Profile Views](https://views-counter.vercel.app/badge?pageId=jaykumarsingh01%2Fprofile-views&label=Profile%20Views)
 
 
 
