@@ -30,9 +30,10 @@
 <!-- PROFILE VIEWS COUNTER -->
 <br/>
 
-
 <!-- PROFILE VIEWS COUNTER -->
-![Profile Views](https://komarev.com/ghpvc/?username=jaykumarsingh01)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaykumarsingh01" alt="Profile Views" />
+</p>
 
 
 
