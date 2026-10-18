@@ -196,16 +196,16 @@ AI/ML Opportunities
 
 <!-- KEEPING THE GITHUB STREAK CARD -->
 
-## 🔥 Contribution Activity
+## 🚀 GitHub Contribution Dashboard
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jaykumarsingh01&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    src="./assets/github-streak-banner.png"
+    alt="GitHub Contribution Dashboard"
     width="100%"
-    alt="GitHub Contribution Streak"
   />
 </p>
-<br/><br/>
+<br/>
 
 <!-- ================= CONNECT ================= -->
 
