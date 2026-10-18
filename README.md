@@ -192,17 +192,17 @@ AI/ML Opportunities
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykumarsingh01&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- KEEPING THE GITHUB STREAK CARD -->
 
-## 🚀 GitHub Contribution Dashboard
+## 🔥 Contribution Activity
 
 <p align="center">
   <img
-    src="./assets/github-streak-banner.png"
-    alt="GitHub Contribution Dashboard"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jaykumarsingh01&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
     width="100%"
+    alt="GitHub Contribution Streak"
   />
 </p>
 <br/>
