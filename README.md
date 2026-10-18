@@ -195,9 +195,7 @@ AI/ML Opportunities
 <br/>
 
 <!-- KEEPING THE GITHUB STREAK CARD -->
-
-## 🔥 Contribution Activity
-
+<h2 align="left">📊 🔥 Contribution Activity</h2>
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=jaykumarsingh01&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
