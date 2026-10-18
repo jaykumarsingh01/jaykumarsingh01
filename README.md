@@ -207,7 +207,6 @@ AI/ML Opportunities
 </p>
 <br/><br/>
 
-
 <!-- ================= CONNECT ================= -->
 
 <h2 align="center">🤝 Let's Connect</h2>
